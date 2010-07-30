@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3174
+
+when use  ":w" to save a .js file, this plugin will validate its content and display the errors via Vim's sign functionality.
+
+see the screen shot:
+http://i1021.photobucket.com/albums/af333/aj3423/jslint.png
+
+code stole from Eclim :) 
+
+not tested for linux yet -_-
+
